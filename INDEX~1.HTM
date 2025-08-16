@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="icon" sizes="192x192" href="/icons/icon-192.png">
+    <link rel="apple-touch-icon" href="/icons/icon-192.png">
+    <title>Prompt Vault v5.7.1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      :root {
+        --brand-bg: #ffffff;
+        --brand-ink: #0f172a;
+        --brand-accent: #00c16a;
+        --brand-accent-ink: #ffffff;
+        --brand-muted: #e5e7eb;
+        --brand-card: #ffffff;
+        --brand-card-border: #e5e7eb;
+        --brand-chip: #f0fdf4;
+        --brand-chip-border: #86efac;
+        --brand-shadow: 0 10px 30px rgba(2,6,23,.08);
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --brand-bg: #0b1020;
+          --brand-ink: #f8fafc;
+          --brand-accent: #00c16a;
+          --brand-accent-ink: #04110a;
+          --brand-muted: #1f2937;
+          --brand-card: #0f172a;
+          --brand-card-border: #1f2937;
+          --brand-chip: #052e1b;
+          --brand-chip-border: #14532d;
+          --brand-shadow: 0 12px 32px rgba(0,0,0,.4);
+        }
+      }
+      body { background: var(--brand-bg); color: var(--brand-ink); }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
