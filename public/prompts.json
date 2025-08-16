@@ -1,0 +1,86 @@
+[
+  {
+    "fane": "ChatGPT",
+    "section": "Skrivning",
+    "kategori": "Kreativ skrivning",
+    "prompt": "Skriv en engagerende historie på 500 ord om en person der opdager en hemmelig dør i deres kælder. Brug levende beskrivelser og skab spænding."
+  },
+  {
+    "fane": "ChatGPT",
+    "section": "Skrivning",
+    "kategori": "Forretning",
+    "prompt": "Skriv en professionel e-mail til en kunde der klager over forsinket levering. Vær undskyldende men løsningsorienteret."
+  },
+  {
+    "fane": "ChatGPT",
+    "section": "Analyse",
+    "kategori": "Data analyse",
+    "prompt": "Analyser følgende data og giv mig 3 konkrete indsigter med handlingsanbefalinger: [indsæt dine data her]"
+  },
+  {
+    "fane": "ChatGPT",
+    "section": "Programmering",
+    "kategori": "JavaScript",
+    "prompt": "Skriv en JavaScript funktion der tager et array af tal og returnerer det største tal. Inkluder fejlhåndtering og kommentarer."
+  },
+  {
+    "fane": "ChatGPT",
+    "section": "Programmering",
+    "kategori": "React",
+    "prompt": "Opret en React komponent der viser en liste af produkter med mulighed for at filtrere efter kategori. Brug hooks og moderne React patterns."
+  },
+  {
+    "fane": "Claude",
+    "section": "Skrivning",
+    "kategori": "Akademisk",
+    "prompt": "Hjælp mig med at skrive en akademisk artikel om [emne]. Strukturer den med introduktion, metode, resultater og konklusion."
+  },
+  {
+    "fane": "Claude",
+    "section": "Analyse",
+    "kategori": "Tekstanalyse",
+    "prompt": "Analyser følgende tekst for tone, stemning og hovedbudskaber. Giv konkrete eksempler fra teksten: [indsæt tekst her]"
+  },
+  {
+    "fane": "Claude",
+    "section": "Kreativitet",
+    "kategori": "Brainstorming",
+    "prompt": "Hjælp mig med at brainstorme 10 innovative idéer til [dit projekt/problem]. Tænk outside the box og vær kreativ."
+  },
+  {
+    "fane": "Gemini",
+    "section": "Research",
+    "kategori": "Faktacheck",
+    "prompt": "Undersøg følgende påstand og giv mig faktuelle kilder der enten bekræfter eller afkræfter den: [indsæt påstand]"
+  },
+  {
+    "fane": "Gemini",
+    "section": "Læring",
+    "kategori": "Forklaring",
+    "prompt": "Forklar [komplekst emne] på en måde en 12-årig kan forstå. Brug analogier og simple eksempler."
+  },
+  {
+    "fane": "Gemini",
+    "section": "Planlægning",
+    "kategori": "Projektledelse",
+    "prompt": "Lav en detaljeret projektplan for [dit projekt] med milepæle, deadlines og ressourcebehov over de næste 3 måneder."
+  },
+  {
+    "fane": "Copilot",
+    "section": "Kode review",
+    "kategori": "Optimering",
+    "prompt": "Gennemgå følgende kode og foreslå forbedringer til performance, læsbarhed og best practices: [indsæt kode]"
+  },
+  {
+    "fane": "Copilot",
+    "section": "Debugging",
+    "kategori": "Fejlfinding",
+    "prompt": "Hjælp mig med at debugge denne fejl. Her er fejlmeddelelsen og den relevante kode: [indsæt fejl og kode]"
+  },
+  {
+    "fane": "Copilot",
+    "section": "Dokumentation",
+    "kategori": "API docs",
+    "prompt": "Skriv komplet API dokumentation for følgende funktion inklusiv parametre, returværdier og eksempler: [indsæt funktion]"
+  }
+]
